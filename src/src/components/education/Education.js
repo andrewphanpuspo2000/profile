@@ -7,7 +7,7 @@ export const Education = () => {
 
     const [visibleControl,setVisibleControl]= useState(false);
   return (
-    <div className='edu-container container'>
+    <div className='edu-container container'id='education'>
     <Row className="w-100">
         <Col sm={6} className='d-flex align-items-center' >
           <div className="education-intro ">

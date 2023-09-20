@@ -39,7 +39,7 @@ export const Contact = () => {
       }
      
   return (
-    <div className='w-100 contact-container text-light mt-4'>
+    <div className='w-100 contact-container text-light mt-4' id='contact'>
        
          <div className=' contact-title  d-flex justify-content-center'>
             <p>

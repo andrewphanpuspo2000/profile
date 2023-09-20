@@ -26,7 +26,7 @@ export const Hero = () => {
           } 
           </div>
         </Col>
-       <Col className="skills-title">
+       <Col className="skills-title" id="skills">
         <p>Skills</p>
        </Col>
         <Col md={6} id="cube" className="d-flex justify-content-center cube">
